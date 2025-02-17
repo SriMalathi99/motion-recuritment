@@ -1,0 +1,4 @@
+Steps to create GCP instance
+Navigate to computer Engine VM instances.
+click create instance 
+choose machine type:ec2-micro
